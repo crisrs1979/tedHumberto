@@ -1,0 +1,33 @@
+body {
+    background-color: #DADFE1;
+  }
+.cadastro-social {
+    color: #2C3E50;
+}
+.painel-todo {
+    background-color: white;
+
+  }
+.painel-topo {
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    background-color: #2C3E50;
+    height: 70px;
+  }
+  .painel-title {
+      color: white;
+      padding: 20px;
+  }
+
+.btn-default {
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+color: white;
+}
+.cadastroSocial {
+    color: #2C3E50;
+}
+
+.panel-body {
+    padding: 20px;
+}
